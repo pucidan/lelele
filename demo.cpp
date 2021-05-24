@@ -11,13 +11,6 @@ AccessKey Secret
 pmxGSj65KV0XHQ7kHhIEmFEimh1Oid
 */
 
-/*
-华为云 myhuaweicloud
-AccessKey
-LBFBXOW4YNQT4ICYXWJ4
-icxKrBfRWwsQPcgFUOp0tRJHp9v8xee2BZH61zqp
-*/
-
 int main()
 {
   printf("hello world\n");
